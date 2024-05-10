@@ -34,5 +34,6 @@
 - https://www.aliexpress.com[AliExpress]: 패스워드 최소 8자 최대 20자. 숨겨진 특수문자 제한 있음(따옴표, 공백, 역슬래시).
 
 == 기타
+- https://www.signgate.com[공동인증서]: 패스워드 최소 10자 최대 30자, 특수문자 제한 있음.
 - https://programmers.co.kr/[프로그래머스]: 패스워드 최소 6자 최대 20자.
 - http://www.daeguoperahouse.org/[대구오페라하우스]: 패스워드 최소 6자 최대 10자. 특수문자 사용 불가능. TLS 미사용.
